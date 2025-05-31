@@ -38,5 +38,6 @@ Módulo A
             - VSCode;
             - Node.js.
 
-    - Requisistos de software?
-    - Primeiros scripts em JS
+    - Nossos Primeiros Scripts
+        Criar nosso primeiro código.
+            ex001.html
