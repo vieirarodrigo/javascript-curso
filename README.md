@@ -41,3 +41,46 @@ Módulo A
     - Nossos Primeiros Scripts
         Criar nosso primeiro código.
             ex001.html
+                - window.alert() - Cria um alerta
+                - window.confirm()  - Pede ao usuário para confirmar ou cancelar
+                - window.prompt() - Solicita um entrada para o usuário
+
+Módulo B
+    - Tipos de Dados e Variáveis
+        // ou /**/ - Comentários
+
+        Variável
+            var <identificador> = <valor> | Para strings podemos os limitadores "", '' ou ``
+
+            typeof - Mostra o tipo da variável
+
+    - Manipulção de Dados
+        '+' - Serve para somar ou concatenar
+
+        Comentários em HTML - <!-- -->
+        Comentários em CSS  - /* */
+
+        Number.parseInt(n) - Converte string para inteiro
+        Number.parseFloat(n) - Converte string para float
+
+        Number(n) - Resumido
+
+        String(n) - Converte para string
+        n.toString()
+
+        Formatando Strings
+            var s = 'JavaScript'
+            'Eu estou aprendendo s' // Não faz interpolação
+            'Eu estou aprendendo ' + s // usa concatenação
+            `Eu estou aprendendo ${s}` // usa template string
+
+            s.length        // quantos caracteres tem a string
+            s.toUpperCase() // deixa toda string em MAIUSCULO
+            s.toLowerCase() // deixa toda string em minusculo
+e2
+        Formatando números
+            n.toFixed() // definir quantidade de casas decimais
+            n.toFixed().replace('', '') // troca algo por outra coisa
+            n.toLocaleString('pt-BR', {style: 'currency', currency:'BRL'}) // formata no estilo da moeda
+
+    - Operações com dados
