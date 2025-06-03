@@ -55,6 +55,11 @@ Módulo B
             typeof - Mostra o tipo da variável
 
     - Manipulção de Dados
+        <audio controls>
+            <source src="./src/audios/manipulacao-de-variaveis.wav">
+            Seu navegador não suporta a reprodução de áudio.
+        </audio>
+
         '+' - Serve para somar ou concatenar
 
         Comentários em HTML - <!-- -->
