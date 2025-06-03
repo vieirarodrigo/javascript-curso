@@ -83,4 +83,30 @@ e2
             n.toFixed().replace('', '') // troca algo por outra coisa
             n.toLocaleString('pt-BR', {style: 'currency', currency:'BRL'}) // formata no estilo da moeda
 
-    - Operações com dados
+    - Operações em JS
+        Operadores aritmétricos
+            +, -, *, /, % e **
+
+            Ordem de precedência: () -> ** -> *, /, % -> +, -
+
+        Operadores de atribuição
+            =
+
+            Autoatribuição
+                n = n + <valor> ou n += <valor>
+
+            Incremento / Decremento
+                n++ ou n--
+
+        Operadores relacionais
+            ==, ===, !=, !==, >, <, >= ou <=
+
+        Operadores lógicos
+            &&, || ou !
+
+            Ordem de precedência: () -> ! -> && -> ||
+
+        Operador ternário
+            ? ou :
+
+        Ordem geral de precedência: () -> aritmétricos -> relacionais -> lógicos
