@@ -164,7 +164,84 @@
 >       getElementsByClassName()
 
 >   por Seletor
-        querySelector()
-        querySelectorAll()
+>       querySelector()
+>       querySelectorAll()
 
 >   Para ID (#), para classes (.)
+
+### Eventos DOM
+
+    mouseenter
+    mousemove
+    mousedown
+    mouseup
+    click
+    mouseout
+Prezados irmãos em Cristo, com a devida seriedade que o tema requer em nosso estudo das Sagradas Escrituras, debruçamo-nos sobre o material que introduz nossa jornada pelo Antigo Testamento. A primeira aula deste módulo tem como objetivo fundamental munir-nos de ferramentas para compreender o panorama do Antigo Testamento, permitindo-nos enxergar o que se encontra por detrás da história narrada.
+
+É crucial reconhecer a natureza singular do Antigo Testamento. Ele registra eventos naturais, mas as atividades sobrenaturais de Deus permanecem intrinsecamente ligadas a essa história. Esta característica distintiva — o desvendamento de Deus nos eventos históricos e nas mensagens divinas — eleva o Antigo Testamento acima do nível da literatura e história seculares. Para uma compreensão total de seu conteúdo, é necessário reconhecer que tanto os fatores naturais quanto os sobrenaturais são essenciais em toda a Bíblia. Assim, o Antigo Testamento deve ser entendido em seu sentido mais amplo como **história sagrada**.
+
+O Antigo Testamento reivindica para si o reconhecimento de ser as **Sagradas Escrituras**. Esta foi a atitude dos judeus, a quem esses escritos foram confiados, e igualmente dos cristãos. O registro escrito constitui um produto divino-humano inerrante em sua escrita original, contendo a verdade para a raça humana inteira. Esta foi a postura de Jesus Cristo e dos apóstolos. Jesus, o Deus-homem, aceitava a autoridade de toda a coletânea do Antigo Testamento, utilizando-o livremente como base para Seu ensino. De igual modo, os apóstolos agiram em relação ao Antigo Testamento na igreja primitiva. Escrito por homens sob orientação divina, o Antigo Testamento foi aceito como inteiramente fidedigno.
+
+Dentro do contexto do Pentateuco, a Aula 1 introduz o **contexto religioso babilônico**. A figura de **Ninrode** é destacada, sendo ele bisneto de Noé e fundador de grandes cidades. Seu nome, "Ninrode", possivelmente significa "devemos nos rebelar", pois, segundo a tradição, ele incitou todos a se rebelar contra a soberania de Deus. Ninrode é identificado como o patriarca apóstata que organizou e dirigiu a construção da **torre de Babel**, a qual é considerada a primeira representação de uma religião falsa, sofisticada e organizada. Flavio Josefo relata que Ninrode transformou o estado de coisas em uma tirania, buscando tornar os homens dependentes de seu próprio poder para afastá-los do temor a Deus. Ele chegou a ameaçar vingar-se de Deus caso houvesse outro dilúvio, planejando construir uma torre tão alta que as águas não a alcançariam. O povo, sentindo ser escravidão submeter-se a Deus, seguiu ansiosamente seu conselho na construção da torre.
+
+A tradição babilônica também associa Ninrode a narrativas míticas, como o casamento com sua própria mãe e a tentativa de se colocar como um deus. Após sua morte (segundo a tradição, pelas mãos de seu tio-avô), sua mãe insistiu que ele era o deus sol. Ela engravidou e afirmou que o filho era de Ninrode, dando à luz Tamuz, que morreu jovem. A crença na oração pela ressurreição de Tamuz e seu aparente "renascimento" faz parte dessa tradição.
+
+A influência da religião babilônica sobre os judeus é notada, conforme evidenciado em passagens como Ezequiel 8.14-18 e Jeremias 44.14-19. Diversos ensinamentos e superstições comuns a antigas religiões (como as fenícias, assírias, egípcias, gregas e romanas, com suas respectivas divindades sincretizadas) apontam para uma mesma origem: Babilônia. Todos os falsos sistemas de adoração originaram-se nas religiões de mistério da Babilônia, pois todos começaram na torre de Babel. Assim, todas as falsas religiões subsequentes provêm da religião de Babel, e a heresia babilônica permanece viva até hoje.
+
+Em suma, a Aula 1 nos convida a abordar o Antigo Testamento como **história sagrada inerrante**, fundamentada na revelação divina e aceita como autoridade por Cristo e os apóstolos. Ao mesmo tempo, introduz o contexto religioso da época, destacando a figura de Ninrode e a torre de Babel como a origem da religião falsa e sua influência, um ponto crucial para a análise e exposição subsequente das Escrituras. Observar aspectos contextuais, autorais, estruturais, linguísticos e literários é fundamental para uma análise abrangente do Antigo Testamento.
+
+Que Deus nos conceda sabedoria e discernimento em nosso estudo de Sua santa Palavra.
+    Funções
+        function ação(param){
+
+        }
+
+## Módulo D
+
+### Condições em JS
+
+    if (condição) {
+        true
+    } else {
+        false
+    }
+
+    Tipos de condição
+        condição simples
+        condição composta
+
+    Condições aninhadas
+
+## Módulo E
+
+### Repetições em JS
+
+    while (condição) {
+
+    }
+
+    do {
+
+    } while (condição)
+
+    for (variável; condição; incremento) {
+        
+    }
+
+## Módulo F
+
+### Avançando nos Estudos
+
+#### Arrays
+
+let num = [ , , ]
+
+Array num, 3 elementos, 0, 1, 2 indices
+
+num[3] = 6
+
+num.push(7)
+num.length
+num.sort()
+num.indexOf()
