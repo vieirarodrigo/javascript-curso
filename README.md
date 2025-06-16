@@ -237,7 +237,7 @@ Que Deus nos conceda sabedoria e discernimento em nosso estudo de Sua santa Pala
 
 let num = [ , , ]
 
-Array num, 3 elementos, 0, 1, 2 indices
+Array num, 3 elementos, 0, #, 2 indices
 
 num[3] = 6
 
@@ -245,3 +245,8 @@ num.push(7)
 num.length
 num.sort()
 num.indexOf()
+
+#### Função
+
+Chamada, parâmetro, ação e retorno
+
