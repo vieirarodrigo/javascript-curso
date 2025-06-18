@@ -250,3 +250,22 @@ num.indexOf()
 
 Chamada, parâmetro, ação e retorno
 
+#### Próximos passos
+
+Curso de HTML
+Functions
+Objetos
+Modularização
+RegEx
+JSON
+AJAX
+NodeJS
+
+Objetos
+let amigo = {
+    nome: 'José',
+    sexo: 'M',
+    peso: 85.4,
+    engordar(p) {}
+}
+

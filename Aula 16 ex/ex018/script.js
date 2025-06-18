@@ -34,6 +34,9 @@ function adicionar() {
         alert('Valor inválido ou já encontrado na lista')
     }
 
+    valor.value = ''
+    valores.focus()
+
     res.innerHTML = ""
 }
 
@@ -59,9 +62,9 @@ function finalizar() {
         soma += valores[i]
     }
 
-    res.innerHTML += `<p>Ao todo, temos ${valores.length} números cadastrados</p>`
-    res.innerHTML += `<p>O maior valor informado foi ${maior}</p>`
-    res.innerHTML += `<p>O menor valor informado foi ${menor}</p>`
-    res.innerHTML += `<p>Somando todos os valores, temos ${soma}</p>`
-    res.innerHTML += `<p>À média dos valores digitados é ${soma / valores.length}</p>`
+    res.innerHTML += `<p>Ao todo, temos ${valores.length} números cadastrados.</p>`
+    res.innerHTML += `<p>O maior valor informado foi ${maior}.</p>`
+    res.innerHTML += `<p>O menor valor informado foi ${menor}.</p>`
+    res.innerHTML += `<p>Somando todos os valores, temos ${soma}.</p>`
+    res.innerHTML += `<p>À média dos valores digitados é ${soma / valores.length}.</p>`
 }
